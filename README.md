@@ -124,7 +124,7 @@ streamlit run frontend/app.py
 
 ---
 
-👤 Author
+👤 Author: KHUSHI SHARMA
 
 Built as part of an advanced AI systems project demonstrating:
 
